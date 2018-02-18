@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Mon Feb 19 03:33:37 IST 2018
+stories/restAssured.story=3000
+threads=1
+total=3000
+threadAverage=3000
